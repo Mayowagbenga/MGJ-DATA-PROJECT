@@ -18,3 +18,7 @@ HCM Data: The primary dataset used for this analysis is the observed different s
   - [download here](https://powerbi.microsoft.com)
 
 ### Data Cleaning 
+---
+~~~
+Google Query Sheet
+SELECT *FROM = MET
