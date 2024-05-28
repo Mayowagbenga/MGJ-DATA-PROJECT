@@ -21,5 +21,9 @@ HCM Data: The primary dataset used for this analysis is the observed different s
 ---
 ~~~
 Google Query Sheet
-SELECT *FROM = MET
-![](DGR)
+SELECT FROM TABLE 1
+WHERE CONDITION = MET
+
+~~~
+![](DGR.jpg)
+![](
