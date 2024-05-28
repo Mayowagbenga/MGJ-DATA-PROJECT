@@ -18,12 +18,16 @@ HCM Data: The primary dataset used for this analysis is the observed different s
   - [download here](https://powerbi.microsoft.com)
 
 ### Data Cleaning 
----
+
+|Heading 1   heading 2    Heading 3|
+
+|-------- | --------|---------|
+
+|Data 1 | Data 2 | Data 3|
 ~~~
 Google Query Sheet
 SELECT FROM TABLE 1
 WHERE CONDITION = MET
-
 ~~~
 ![](DGR.jpg)
-![](
+
