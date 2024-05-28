@@ -10,7 +10,11 @@ This is the first data analysis project at FCB 2024 aimed at providing insight t
 HCM Data: The primary dataset used for this analysis is the observed different sources for our data,
 
 ### Tools Used
-- **My Excel for data cleaning** [download here](www.microsoft.com)
-- **Phyton for data mining**  [download here](www.pyhton.org)
-- **Power BI for my visualization** [download here](www.powerbi.microsoft.com)
+- **Excel - data cleaning**
+    - [download here](https://microsoft.com)
+- **Phyton - data Analysis**
+    - [download here](https://pyhton.org)
+- **Power BI - Creating reports**
+  - [download here](https://powerbi.microsoft.com)
 
+### Data Cleaning 
